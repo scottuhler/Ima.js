@@ -1,0 +1,9 @@
+Ima.js
+============
+
+It may be months before an "official" solution to the responsive/adaptive image issue is supported, so for now, shims are the best we can do.
+
+This is a sandbox for me to play with different methods to see what works best, and is the simplest to implement across my projects.
+
+
+-su
